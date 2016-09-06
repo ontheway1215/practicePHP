@@ -1,0 +1,1 @@
+<a href="demo5.php?subject=PHP&web=W3school.com.cn">测试$_GET</a>
